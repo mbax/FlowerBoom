@@ -1,0 +1,6 @@
+name: FlowerBoom
+main: nu.baxter.flowerboom.FBPlugin
+version: 1.0
+website: http://forums.joe.to
+author: mbaxter
+description: Caution! Picking flowers may be harmful to your health.
